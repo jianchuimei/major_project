@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# TensorFlow Model Files
+*.h5
+*.keras
+saved_model/
+checkpoints/
+
+# Training Logs
+logs/
+tensorboard_logs/
+
+# Dataset
+dataset/
+data/
+datasets/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Cache Files
+.cache/
+.pytest_cache/
+
+# Matplotlib Generated Images
+*.png
+*.jpg
+*.jpeg
+
+# Model Weights
+*.ckpt
+*.pb
+
+# Environment Variables
+.env
+
+# Log Files
+*.log
